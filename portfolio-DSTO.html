@@ -158,10 +158,9 @@
             <div class="portfolio-description" data-aos="fade-up" data-aos-delay="300">
               <h2>Project Overview</h2>
               <p>
-                Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
-              </p>
+               This project focuses on designing a Disease Surveillance & Treatment Outcomes Database that supports both transactional healthcare data capture and analytics-ready reporting. The goal was to model real-world disease episodes in a way that ensures data integrity, historical accuracy, and meaningful analytical insight.
               <p>
-                Amet consequatur qui dolore veniam voluptatem voluptatem sit. Non aspernatur atque natus ut cum nam et. Praesentium error dolores rerum minus sequi quia veritatis eum. Eos et doloribus doloremque nesciunt molestiae laboriosam.
+                The solution follows an end-to-end data architecture, starting with a normalized OLTP relational database for operational workflows and extending into a dimensional data warehouse (star schema) optimized for analytics. Emphasis was placed on defining the correct analytical grain, enforcing business rules at the database level, and enabling population-level analysis across demographics and locations.
               </p>
 
               <div class="features mt-4">
@@ -170,32 +169,32 @@
                   <div class="col-md-6">
                     <div class="feature-item" data-aos="fade-up" data-aos-delay="400">
                       <i class="bi bi-check-circle-fill"></i>
-                      <h4>Responsive Design</h4>
-                      <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+                      <h4>Analytics-Ready Data Modeling</h4>
+                      <p>Designed a normalized OLTP schema with strong referential integrity and a downstream star-schema data warehouse, ensuring consistency between transactional and analytical layers.</p>
                     </div>
                   </div>
 
                   <div class="col-md-6">
                     <div class="feature-item" data-aos="fade-up" data-aos-delay="500">
                       <i class="bi bi-shield-check"></i>
-                      <h4>Advanced Security</h4>
-                      <p>Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+                      <h4>Clear Fact & Dimension Design</h4>
+                      <p>Defined a precise episode-level grain (one disease episode per person) and built fact and dimension tables that support reliable trend, outcome, and risk analysis.</p>
                     </div>
                   </div>
 
                   <div class="col-md-6">
                     <div class="feature-item" data-aos="fade-up" data-aos-delay="600">
                       <i class="bi bi-graph-up"></i>
-                      <h4>Performance Optimization</h4>
-                      <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+                      <h4>Historical Tracking (SCD Type 2)</h4>
+                      <p>Implemented Slowly Changing Dimensions Type 2 to preserve historical changes in person attributes, enabling accurate longitudinal analysis.</p>
                     </div>
                   </div>
 
                   <div class="col-md-6">
                     <div class="feature-item" data-aos="fade-up" data-aos-delay="700">
                       <i class="bi bi-gear"></i>
-                      <h4>Easy Integration</h4>
-                      <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                      <h4>Cloud & Scalability Considerations</h4>
+                      <p>Evaluated AWS-based architecture patterns and a NoSQL (MongoDB) document model alternative, highlighting scalability, flexibility, and trade-offs.</p>
                     </div>
                   </div>
                 </div>
