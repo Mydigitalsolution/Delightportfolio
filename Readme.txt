@@ -1,42 +1,43 @@
-# 👋 Delight Marumani — Professional Portfolio
+# Delight Marumani — Professional Portfolio
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-blue?style=for-the-badge)](https://mydigitalsolution.github.io/Delightportfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-DelightMarumani-black?style=for-the-badge\&logo=github)](https://github.com/mydigitalsolution)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Delight%20Marumani-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/delight-marumani)
 
-## 🌐 Live Portfolio
+## Live Portfolio
 
-**Visit my portfolio:**
-👉 https://mydigitalsolution.github.io/Delightportfolio/
+Visit my portfolio:
 
----
-
-## 👨‍💻 About Me
-
-I am an **IT Professional, Web Developer, and Data Analytics & Visualization graduate student** with experience spanning IT administration, software development, data analytics, system design, and digital solutions.
-
-My background combines **information technology, data, and software development**, allowing me to approach technical problems from both a systems and analytical perspective.
-
-I am currently pursuing a **Master's degree in Data Analytics & Visualization at Yeshiva University**, building on my Bachelor's degree in Information Systems.
-
-I am particularly interested in using **data and technology to solve real-world problems, improve operational efficiency, and support better decision-making.**
+https://mydigitalsolution.github.io/Delightportfolio/
 
 ---
 
-## 🎯 Professional Focus
+## About Me
 
-* 📊 Data Analytics & Visualization
-* 🤖 Data Science & Machine Learning
-* ☁️ Cloud Computing & AWS
-* 💻 Web & Software Development
-* 🗄️ Database Design & SQL
-* 🏢 IT Administration & Systems Support
-* 📈 Business Intelligence & Reporting
-* 🎨 Web & Digital Design
+I am an IT Professional, Web Developer, and Data Analytics & Visualization graduate student with experience spanning IT administration, software development, data analytics, system design, and digital solutions.
+
+My background combines information technology, data, and software development, allowing me to approach technical problems from both a systems and analytical perspective.
+
+I am currently pursuing a Master's degree in Data Analytics & Visualization at Yeshiva University, building on my Bachelor's degree in Information Systems.
+
+I am particularly interested in using data and technology to solve real-world problems, improve operational efficiency, and support better decision-making.
 
 ---
 
-## 🛠️ Technical Skills
+## Professional Focus
+
+* Data Analytics & Visualization
+* Data Science & Machine Learning
+* Cloud Computing & AWS
+* Web & Software Development
+* Database Design & SQL
+* IT Administration & Systems Support
+* Business Intelligence & Reporting
+* Digital Design
+
+---
+
+## Technical Skills
 
 ### Programming & Development
 
@@ -54,7 +55,6 @@ I am particularly interested in using **data and technology to solve real-world 
 * Pandas
 * NumPy
 * Matplotlib
-* Seaborn
 * R
 * SQL
 * Excel
@@ -70,7 +70,7 @@ I am particularly interested in using **data and technology to solve real-world 
 * PostgreSQL
 * SQL Database Design
 * Data Modeling
-* Query Optimization
+* Query Development
 
 ### Cloud & Technology
 
@@ -83,15 +83,15 @@ I am particularly interested in using **data and technology to solve real-world 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-This portfolio contains projects covering **data analytics, software development, databases, web development, AI, and enterprise systems.**
+This portfolio contains projects covering data analytics, software development, databases, web development, AI, and enterprise systems.
 
-### 🏭 Factory Control System
+### Factory Control System
 
 A production monitoring and management system developed to support manufacturing operations.
 
-**Key areas:**
+Key areas:
 
 * Production monitoring
 * Copper tracking
@@ -100,39 +100,33 @@ A production monitoring and management system developed to support manufacturing
 * Operator training
 * Performance monitoring
 
-**Technologies:** Web technologies, databases, system development
+Technologies: Web technologies, databases, and system development.
 
----
-
-### 💧 Pollution Reporting System
+### Pollution Reporting System
 
 A web-based system developed for the South African Department of Water and Sanitation to support pollution reporting and environmental data collection.
 
-**Features include:**
+Features include:
 
 * Pollution reporting
 * Image uploads
-* Location/geographic information
+* Geographic information
 * Administrative workflows
 * Reporting and monitoring
 
-**Technologies:** PHP, JavaScript, HTML, CSS, APIs
+Technologies: PHP, JavaScript, HTML, CSS, and APIs.
 
----
-
-### 🤖 WUSS Chatbot
+### WUSS Chatbot
 
 An intelligent assistant developed as part of a water-use and sanitation management solution.
 
-The project explores the integration of **web applications, APIs, and artificial intelligence** to provide users with accessible information and assistance.
+The project explores the integration of web applications, APIs, and artificial intelligence to provide users with accessible information and assistance.
 
----
+### AI Statistical Arbitrage Agent
 
-### 📈 AI Statistical Arbitrage Agent
+An AI and data-driven project exploring financial market analysis and statistical arbitrage strategies.
 
-An AI/data-driven project exploring financial market analysis and statistical arbitrage strategies.
-
-**Areas explored:**
+Areas explored:
 
 * Financial time-series analysis
 * Statistical relationships
@@ -140,23 +134,19 @@ An AI/data-driven project exploring financial market analysis and statistical ar
 * Trading strategy development
 * AI-assisted analysis
 
----
-
-### 🗄️ Disease Surveillance & Treatment Outcomes Database
+### Disease Surveillance & Treatment Outcomes Database
 
 A database project focused on organizing and analyzing disease surveillance and treatment outcome information.
 
-**Key areas:**
+Key areas:
 
 * Relational database design
 * SQL
 * Data management
 * Query development
-* Healthcare data analysis
+* Data analysis
 
----
-
-### 📊 911 Calls for Service Dashboard
+### 911 Calls for Service Dashboard
 
 A Tableau-based data visualization project analyzing emergency service call data.
 
@@ -168,27 +158,47 @@ The project demonstrates:
 * Interactive dashboards
 * Data storytelling
 
----
-
-### 🌐 Web Design Projects
+### Web Development Projects
 
 The portfolio also includes professional website and digital design projects developed for businesses and organizations.
 
 Examples include:
 
-* Finecorplink website
-* Siyon Packaging website
 * Business websites
 * Responsive web interfaces
-* Digital branding and design
+* E-commerce websites
+* Digital branding
+* Website maintenance
+* Custom web applications
 
 ---
 
-## 📚 Education
+## Cloud & AI Projects
 
-### 🎓 Master of Science — Data Analytics & Visualization
+I explore cloud-based and AI-powered solutions using technologies such as:
 
-**Yeshiva University — Katz School of Science and Health**
+* AWS Lambda
+* Amazon S3
+* Amazon API Gateway
+* AWS Glue
+* Amazon Athena
+* AWS IAM
+* Event-driven architectures
+* OpenAI APIs
+* Python
+* Flask
+* Streamlit
+
+These projects focus on applying cloud and AI technologies to data analysis, automation, business applications, and intelligent systems.
+
+---
+
+## Education
+
+### Master of Science — Data Analytics & Visualization
+
+Yeshiva University — Katz School of Science and Health
+
 2025 – Present
 
 Focus areas include:
@@ -200,16 +210,17 @@ Focus areas include:
 * Data Engineering
 * Business Intelligence
 
-### 🎓 Bachelor of Science — Information Systems
+### Bachelor of Science — Information Systems
 
-**Midlands State University**
+Midlands State University
+
 2015 – 2018
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-My professional experience includes working across **IT administration, systems development, web development, and digital solutions**.
+My professional experience includes working across IT administration, systems development, web development, and digital solutions.
 
 ### IT Administrator — CAFCA Ltd
 
@@ -244,51 +255,31 @@ Responsibilities included:
 
 ---
 
-## ☁️ Cloud & AI Projects
+## What This Portfolio Demonstrates
 
-I also explore cloud-based and AI-powered solutions using technologies such as:
-
-* AWS Lambda
-* Amazon S3
-* API Gateway
-* AWS Glue
-* Amazon Athena
-* IAM
-* Event-driven architectures
-* OpenAI APIs
-* Python
-* Flask
-* Streamlit
-
-These projects focus on applying cloud and AI technologies to **data analysis, automation, business applications, and intelligent systems.**
-
----
-
-## 📊 What This Portfolio Demonstrates
-
-This portfolio represents the intersection of:
+This portfolio represents the intersection of information technology, software development, data analytics, cloud computing, and artificial intelligence.
 
 ```text
              INFORMATION TECHNOLOGY
-                       │
-          ┌────────────┼────────────┐
-          │            │            │
+                       |
+          +------------+------------+
+          |            |            |
        SOFTWARE       DATA        CLOUD
       DEVELOPMENT   ANALYTICS    COMPUTING
-          │            │            │
-          └────────────┼────────────┘
-                       │
-                  AI & ML
-                       │
-                       ▼
-             REAL-WORLD SOLUTIONS
+          |            |            |
+          +------------+------------+
+                       |
+                    AI & ML
+                       |
+                       v
+              REAL-WORLD SOLUTIONS
 ```
 
-My goal is not simply to build software or analyze datasets, but to **connect technology, data, and business requirements to create practical solutions.**
+My goal is not simply to build software or analyze datasets, but to connect technology, data, and business requirements to create practical solutions.
 
 ---
 
-## 🖥️ Running the Portfolio Locally
+## Running the Portfolio Locally
 
 Clone the repository:
 
@@ -304,44 +295,42 @@ cd Delightportfolio
 
 Because this is a static website, it can be opened directly in a browser or served using a local development server.
 
-For example, with VS Code, you can use **Live Server** to launch the website locally.
+For example, with VS Code, you can use Live Server to launch the website locally.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Delightportfolio/
-│
-├── index.html
-├── assets/
-│   ├── css/
-│   ├── js/
-│   ├── img/
-│   └── vendor/
-│
-├── forms/
-│
-├── portfolio/
-│
-└── README.md
+|
++-- index.html
++-- assets/
+|   +-- css/
+|   +-- js/
+|   +-- img/
+|   +-- vendor/
+|
++-- forms/
+|
++-- portfolio/
+|
++-- README.md
 ```
 
 ---
 
-## 🌍 Deployment
+## Deployment
 
-The portfolio is deployed using **GitHub Pages**.
+The portfolio is deployed using GitHub Pages.
 
-**Live website:**
+Live website:
 
-👉 https://mydigitalsolution.github.io/Delightportfolio/
-
-GitHub Pages provides a simple and reliable way to host the static portfolio and make it publicly accessible.
+https://mydigitalsolution.github.io/Delightportfolio/
 
 ---
 
-## 📬 Contact
+## Contact
 
 I am open to opportunities involving:
 
@@ -350,22 +339,20 @@ I am open to opportunities involving:
 * Machine Learning
 * Cloud & Data Engineering
 * IT Administration
-* Software/Web Development
+* Software and Web Development
 * Technical Consulting
 * Data Visualization
 
-📧 **Email:** [dmarumanie@gmail.com](mailto:dmarumanie@gmail.com)
+Email: [dmarumanie@gmail.com](mailto:dmarumanie@gmail.com)
 
-💼 **LinkedIn:** [linkedin.com/in/delight-marumani](https://www.linkedin.com/in/delight-marumani)
+LinkedIn: https://www.linkedin.com/in/delight-marumani
 
-🌐 **Portfolio:** [mydigitalsolution.github.io/Delightportfolio](https://mydigitalsolution.github.io/Delightportfolio/)
+Portfolio: https://mydigitalsolution.github.io/Delightportfolio/
 
 ---
 
-## ⭐ Let's Connect
+## Let's Connect
 
-If you are interested in **data, technology, cloud computing, AI, software development, or digital transformation**, feel free to connect with me.
+If you are interested in data, technology, cloud computing, AI, software development, or digital transformation, feel free to connect with me.
 
-**Thanks for visiting my portfolio!**
-
-⭐ If you find any of the projects interesting, consider giving the repository a star.
+Thank you for visiting my portfolio.
